@@ -140,21 +140,3 @@ To test the game with a sample map:
    ```  
 
 You can also try edge cases, such as invalid maps, missing elements, or broken walls, to test the error handling.  
-
----
-
-## Contributions  
-
-This project is part of the 1337 School curriculum and is meant for educational purposes. Contributions are not accepted, but feel free to fork the repository and experiment!  
-
----
-
-## Author  
-
-Developed by **mkatfi** as part of the curriculum at **1337 School**, a member of the 42 Network.  
-
----
-
-## License  
-
-This project is subject to the rules and policies of 1337 School. Redistribution or plagiarism is strictly prohibited.  
